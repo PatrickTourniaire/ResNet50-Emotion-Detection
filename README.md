@@ -3,7 +3,7 @@
 This project was created for educational purposes to explore the ResNet50 architecture's application in live emotion detection. The project started by exploring a way to measure attention, but pivoted to explore this type of convolutional neural networks. 
 
 ## Some Results
-| ![Anger](https://i.imgur.com/sjPAvom.png) |![Fear](https://i.imgur.com/VHvh6Wn.png)  |![Happy](https://i.imgur.com/0e2Ag4N.png) |
+| ![Anger](https://i.imgur.com/sjPAvom.png) |![Fear](https://i.imgur.com/0TrXn44.png)  |![Happy](https://i.imgur.com/0e2Ag4N.png) |
 |--|--|--|
 
 
